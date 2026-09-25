@@ -52,4 +52,4 @@ E_{60}=26\,\frac{1-2^{-60/30}}{1-2^{-5/30}}
 \approx178.7
 $$
 
-**Resultado del modelo: aproximadamente 226 personas provenientes de la puerta 5 pasarían por el cruce entre las 10:25 y las 11:25 a. m.**
+**Resultado del modelo: aproximadamente 179 personas provenientes de la puerta 5 pasarían por el cruce entre las 10:25 y las 11:25 a. m.**
